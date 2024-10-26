@@ -1,5 +1,8 @@
 ### Just to demonstrate an error
 
+GitHub issue:
+https://github.com/expo/expo/issues/32374
+
 Opening React Navigation dev tools on Expo SDK52 makes the app crash immidietely. 
 
 I discovered this first on a real app that I upgraded to SDK52 beta.
